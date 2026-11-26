@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: auto
-        image: 699975678994.dkr.ecr.us-east-1.amazonaws.com/shopping-site-auto:684e1b2566919b9db1ddeb0baba3f886fc1095bc
+        image: 236604670768.dkr.ecr.us-east-1.amazonaws.com/shopping-site-auto:f0e78628e07580abbaf8319ab2326698fe6b9f6d
         ports:
         - containerPort: 80
 ---
